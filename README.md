@@ -1,1 +1,1 @@
-# Speech-Emotion-Recognition
+This project focuses on Speech Emotion Recognition (SER) using a hybrid deep learning architecture that combines Convolutional Neural Networks (CNN) and Bidirectional Gated Recurrent Units (BiGRU). The model is trained to classify emotional states from audio recordings with a high accuracy of 96.30%.# Speech-Emotion-Recognition
